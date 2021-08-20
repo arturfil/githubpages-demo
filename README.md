@@ -13,6 +13,6 @@ https://d186loudes4jlv.cloudfront.net/git/images/github_new_repo3.png
 ``` git push origin gh-pages```
 - Everytime you change something in main, checkout to gh-pages:
 ```git checkout gh-pages```
-```git pull``` or ```git pull origin main```
+```git pull origin main```
 - And repeat the push gh-pages branch to github pages
 ```git push origin gh-pages```
